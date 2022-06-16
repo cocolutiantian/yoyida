@@ -1,1 +1,1 @@
-{"hep":"111","sss":"111"}
+{"HTTP_URL":{"ip":"http://154.86.129.214","port":"8082"},"other_config":{"1":"https://github.com/cocolutiantian/yoyida/raw/main/xxx.txt","2":"https://github.com/cocolutiantian/yoyida/raw/main/xxx.txt"}}
